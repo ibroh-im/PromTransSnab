@@ -159,6 +159,15 @@ padding: 8px 60px 8px 60px;
 background:  linear-gradient(194deg, #242424 0%, #303030 27.70%, #4B4B4B 50.62%, #2F2F2F 73.90%, #242424 100%);
 
 }
+.btn-footer5 {
+background:  linear-gradient(191deg, #BF6F3F 0%, #ECA072 50.11%, #BF6F3F 100%); 
+}
+.btn-footer4 {
+background: linear-gradient(194deg, #CC7B1A 0%, #EEC492 50.68%, #CC7B1A 100%);
+}
+.img-headerr2 {
+    background: url(../image/image\ 51.png);
+}
 .btn-header {
     color: #FFF;
 text-align: center;
@@ -170,7 +179,30 @@ letter-spacing: 0.671px;
 background: linear-gradient(194deg, #242424 0%, #303030 27.70%, #4B4B4B 50.62%, #2F2F2F 73.90%, #242424 100%);
 
 }
-@media only screen and (max-width: 346px){
+.navvv {
+    margin-bottom: 90px;
+}
+.bg-basket {
+    margin-top: 50px;
+}
+.navv1 {
+    margin-bottom: 65px;
+}
+@media only screen and (max-width: 992px){
+.navvv {
+    margin-bottom: 65px;
+}
+}
+@media only screen and (max-width: 446px){
+    .imgg {
+        display: none;
+    }
+    .imgg1 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1200px){
 .icon-text {
     font-size: 14px;
 }   
